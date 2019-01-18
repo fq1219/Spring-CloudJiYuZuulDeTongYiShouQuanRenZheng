@@ -1,3 +1,5 @@
+本项目拷贝与https://gitee.com/fnet/Spring-CloudJiYuZuulDeTongYiShouQuanRenZheng
+
 # Spring Cloud 基于网关的统一授权认证
 
  本项目基于[汪云飞记录本](http://www.wisely.top/2017/06/14/spring-cloud-oauth2-zuul/?d=3)[Github地址]( https://github.com/wiselyman/uaa-zuul)由于不好部署需要导入数据库等原因本人稍微做了一些改进,但总体上还是相似的,只是更容易跑起来,省去了导入数据库等麻烦的操作。
